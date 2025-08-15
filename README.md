@@ -10,6 +10,8 @@
 
 PortableXE Professional is a comprehensive tool that converts Windows executables and installers into portable applications that can run from any location without installation. Perfect for creating USB-portable software, testing applications in isolated environments, or maintaining clean systems.
 
+![PortableXE Screenshot](https://github.com/LMLK-seal/PortableXE/blob/main/screenshot.png?raw=true)
+
 ## ✨ Key Features
 
 ### 🔧 **Advanced Extraction Engine**
