@@ -6,7 +6,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
-![PortableXE Screenshot](![PortableXE Screenshot](https://github.com/LMLK-seal/PortableXE/blob/main/logo.png?raw=true))
+(![PortableXE Screenshot](https://github.com/LMLK-seal/PortableXE/blob/main/logo.png?raw=true))
 
 ## 🚀 Overview
 
